@@ -1,4 +1,4 @@
-# ALGORITMOS DE BUSQUEDA Y ORDENAMIENTO :computer:
+# ORDENAR ENTEROS POR POTENCIA :computer:
 
 ![version](https://juncotic.com/wp-content/uploads/2016/10/orden-3.png) 
 
