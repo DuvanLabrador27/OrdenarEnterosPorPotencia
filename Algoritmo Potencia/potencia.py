@@ -50,6 +50,8 @@ k=4
 6--> Esta salida se da porque K=4 y en la lista ordenada el cuarto elemento es 6
 ListaOrdenada=[4,5,3,6]
 """
+import time
+inicio = time.time()
 def getKth(lo: int, hi: int, k: int):                       
         lista = []
         for i in range(lo,hi+1):
@@ -73,3 +75,6 @@ def mostrar(lista):
   return lista
 lista=getKth(lo,hi,k)
 print(mostrar(f"Salida: {lista}"))
+#Imprimir el tiempo
+fin = time.time()
+print(fin-inicio) 
