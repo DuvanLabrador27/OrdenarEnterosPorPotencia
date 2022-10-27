@@ -16,9 +16,7 @@
 
 ## Algoritmos
 _Se anexa el metodo utilizado en la plataforma leetcode:_
-<p
-<img src="C:\Users\duvan\Desktop\OrdenarEnterosPorPotencia\img" width="64" height="64" margin-right: 20px>
-</p>
+
 
 
 ## Herramientas 
