@@ -4,6 +4,7 @@
 
 ## Tabla de Contenido
 
+* [Explicacion del ejercicio :memo:](#Algoritmos)
 * [Algoritmo en leetcode :memo:](#Algoritmos)
 * [Algoritmo en VsCode :memo:](#Algoritmos)
 * [Herramientas Utilizadas :memo:](#Herramientas)
@@ -11,7 +12,21 @@
 * [Autores :memo:](#autores)
 * [Conclusiones :memo:](#Conclusiones)
 
+## Explicaion del ejercicio
+_ 
+El programa consiste en ordenar enteros por el valor de la potencia.
+La potencia de un entero x se define como el número de pasos necesarios para 
+transformar x en 1 usando los siguientes pasos:
 
+    -if x is PAR entonces x = x / 2
+    -if x is IMPAR entonces x = 3 * x + 1
+
+    *PAR: 10/2=5
+    *IMPAR: 5*3+1=16
+    
+ Para ver la explicacion más detallada se recomienda visualizar el documento:
+ [Algoritmo ordenar enteros por potencia](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
+_
 
 
 ## Algoritmo usado en leetcode
@@ -33,10 +48,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
    align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
 </p>
    
-
-## Documentacion
-_Puedes visualizar la documentacion en el siguiente enlace:_ 
-* [Algoritmo ordenar enteros por potencia](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
 
 
  ## Autores 
