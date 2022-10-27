@@ -48,7 +48,7 @@ _Se anexa el metodo utilizado en VSCODE y caso de prueba aceptado:_
 _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Python](https://www.python.org) - Lenguaje de Programación
-* [Pytest](https://www.python.org) - Marco de prueba de Python
+* [Pytest](https://pypi.org/project/pytest/) - Marco de prueba de Python
 
 <p
    align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
@@ -62,8 +62,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 ## Conclusiones
 * Cuando nos excedemos del tamaño de la lista al aplicar la formula K=hi-lo+1, nos da error, ya que la salida esperada debe estar en el rango de esa lista.
-* De las 3 implementaciones de ordenamiento en Javascript, Algoritmo de burbuja fue la que mayor tiempo de ejecución estuvo, este valor será incremental a medida que se aumente mayormente los datos.
-* Se presentaron mayores tiempos de ejecución debido a que se tomaba en cuenta el tiempo que se gastaba al momento de ingresar los datos.
 
 
  
