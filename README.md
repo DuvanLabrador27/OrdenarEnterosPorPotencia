@@ -42,16 +42,17 @@ _Se anexa el metodo utilizado en VSCODE y caso de prueba aceptado:_
  <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code2.png" width="500" height="700" margin-right: 20px><br>
  <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/caso2.png" width="500" height="350" margin-right: 20px>
 </p>
-https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code2.png
 
 ## Herramientas 
 
 _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Python](https://www.python.org) - Lenguaje de Programación
+* [Pytest](https://www.python.org) - Marco de prueba de Python
 
 <p
    align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png" width="64" height="64" margin-right: 20px>
 </p>
    
 
