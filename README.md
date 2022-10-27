@@ -30,7 +30,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * [C++](https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170) - Lenguaje de Programación
 
 <p
-   align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="100" height="100" margin-right: 20px>
  
 </p>
 
