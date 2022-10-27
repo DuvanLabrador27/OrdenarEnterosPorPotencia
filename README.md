@@ -54,7 +54,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * CARLOS DUVAN LABRADOR H - 1151808
 
 ## Conclusiones
-* Cuando usamos el algoritmo de búsqueda binaria debemos tener en cuenta que la lista debe estar ordenada de forma ascendente para que el algoritmo se ejecute de forma correcta.
+* Cuando nos excedemos del tamaño de la lista al aplicar la formula K=hi-lo+1, nos da error, ya que la salida esperada debe estar en el rango de esa lista.
 * El algoritmo de ordenamiento de burbuja es un algoritmo ineficiente porque a pesar que es de los algoritmos de ordenamiento más famosos, iterar con cada uno de los elementos del arreglo así que este ordenado, generando tiempos de ejecución innecesariamente más largos, existe otros algoritmos que hace omisión si los elementos ya esta ordenado como por ejemplo inserción.
 * El algoritmo de búsqueda lineal, no es afectado por la forma en la que se ordenen los elementos del vector, siempre da el mismo rendimiento y en mi caso en c++, me pareció muy efectivo el algoritmo de selección, el algoritmo de burbuja se tarda un poco más pero no es mucha la diferencia, por otra parte el algoritmo de búsqueda binaria es muy eficiente, la restricción que tiene es lo único malo que tiene.
 * De las 3 implementaciones de ordenamiento en Javascript, Algoritmo de burbuja fue la que mayor tiempo de ejecución estuvo, este valor será incremental a medida que se aumente mayormente los datos.
