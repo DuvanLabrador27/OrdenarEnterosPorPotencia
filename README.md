@@ -16,7 +16,10 @@
 
 ## Algoritmos
 _Se anexa el metodo utilizado en la plataforma leetcode:_
-
+<p
+   align="center"> <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code.png" width="64" height="64" margin-right: 20px>
+ 
+</p>
 
 
 ## Herramientas 
@@ -35,9 +38,6 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
 * [Algoritmos de Búsqueda y Ordenamiento](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
 
-## Casos de Prueba de JS
-_Puedes visualizar las pruebas documentadas, ejecutadas y descritas de la documentacion en el siguiente enlace:_
-* [Casos de Prueba JS](https://replit.com/@MARLON-STIVENS1/Algoritmos-de-Ordenamiento-y-Busqueda?v=1)
 
  ## Autores 
 * CARLOS DUVAN LABRADOR H - 1151808
