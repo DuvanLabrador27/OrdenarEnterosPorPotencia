@@ -1,6 +1,6 @@
 # ALGORITMOS DE BUSQUEDA Y ORDENAMIENTO :computer:
 
-![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
+![version](https://juncotic.com/wp-content/uploads/2016/10/orden-3.png) 
 
 ## Tabla de Contenido
 
