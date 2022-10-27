@@ -13,7 +13,7 @@
 * [Conclusiones :memo:](#Conclusiones)
 
 ## Explicaion del ejercicio
-_ 
+ 
 El programa consiste en ordenar enteros por el valor de la potencia.
 La potencia de un entero x se define como el número de pasos necesarios para 
 transformar x en 1 usando los siguientes pasos:
@@ -26,7 +26,7 @@ transformar x en 1 usando los siguientes pasos:
     
  Para ver la explicacion más detallada se recomienda visualizar el documento:
  [Algoritmo ordenar enteros por potencia](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
-_
+
 
 
 ## Algoritmo usado en leetcode
