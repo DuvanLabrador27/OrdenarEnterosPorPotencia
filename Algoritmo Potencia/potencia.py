@@ -10,12 +10,13 @@ transformar x en 1 usando los siguientes pasos:
     *PAR: 10/2=5
     *IMPAR: 5*3+1=16
 -------EJEMPLO--------
-    (para 5)
-    5*3+1=16
-    16/2=8
-    8/2=4
-    4/2=2
-    2/2=1
+   (para 5)
+    5*3+1=16 (Primera Iteración)
+    16/2=8   (Segunda Iteración)
+    8/2=4    (Tercer Iteración)
+    4/2=2    (Cuarta Iteración)
+    2/2=1    (Quinta Iteración)
+
 5 repeticiones para llegar a (1)
 ----------------------
 ##Requerimientos
@@ -35,8 +36,9 @@ hi=6
 k= 6-3+1= 4 (K puede ser 1,2,3,4)--> si se excede de 4 da ERROR!!!!!
 
 Lista=[3,4,5,6] --> Esta es la lista original
-ListaValorPow=[7,2,5,8]-->Esta lista da el numero de repeticiones segun la lista original
-ListaOrdenada=[4,5,3,6]-->Esta lista esta ordenada en orden ascendente segun la lista original
+ListaValorPow=[7,2,5,8 ]-->Esta lista da el número de repeticiones según la lista original
+ListaOrdenada=[4,5,3,6] --> Esta lista está ordenada en orden ascendente según la lista original y la lista valorPow la cual contiene el valor de las potencias.
+
 
 -------RESULTADO---------
 (ENTRADAS)
@@ -48,7 +50,7 @@ k=4
 6--> Esta salida se da porque K=4 y en la lista ordenada el cuarto elemento es 6
 ListaOrdenada=[4,5,3,6]
 """
-def getKth(lo: int, hi: int, k: int):                        #K es el tamañ
+def getKth(lo: int, hi: int, k: int):                       
         lista = []
         for i in range(lo,hi+1):
             j = i            
@@ -63,3 +65,11 @@ def getKth(lo: int, hi: int, k: int):                        #K es el tamañ
             lista.append([count,j])
         lista.sort()
         return lista[k-1][1] 
+
+lo=int(input())
+hi=int(input())
+k=int(input())
+def mostrar(lista):
+  return lista
+lista=getKth(lo,hi,k)
+print(mostrar(f"Salida: {lista}"))
