@@ -17,7 +17,7 @@
 ## Algoritmos
 _Se anexa el metodo utilizado en la plataforma leetcode:_
 <p
-   align="center"> <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code.png" width="64" height="64" margin-right: 20px>
+ <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code.png" width="500" height="500" margin-right: 20px>
  
 </p>
 
@@ -30,8 +30,8 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 * [C++](https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170) - Lenguaje de Programación
 
 <p
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="100" height="100" margin-right: 20px>
- 
+   align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px>
+   
 </p>
 
 ## Documentacion
