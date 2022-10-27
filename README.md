@@ -17,7 +17,8 @@
 ## Algoritmos
 _Se anexa el metodo utilizado en la plataforma leetcode:_
 <p
-<img src="https://isocpp.org/assets/images/cpp_logo.png" width="68" height="64" >
+<img src="![image](https://user-images.githubusercontent.com/80419064/198397056-b1e0ec0e-7c62-49ab-b3cb-0c85874f3a52.png)
+" width="68" height="64" >
 </p>
 
 
