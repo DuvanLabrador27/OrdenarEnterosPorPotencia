@@ -36,6 +36,13 @@ _Se anexa el metodo utilizado en la plataforma leetcode y caso de prueba aceptad
  <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/casoPrueba.png" width="500" height="350" margin-right: 20px>
 </p>
 
+## Algoritmo usado en VSCODE
+_Se anexa el metodo utilizado en VSCODE y caso de prueba aceptado:_
+<p align="center">
+ <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code2.png" width="500" height="500" margin-right: 20px><br>
+ <img src="https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/casoPrueba.png" width="500" height="350" margin-right: 20px>
+</p>
+https://github.com/DuvanLabrador27/OrdenarEnterosPorPotencia/blob/main/img/code2.png
 
 ## Herramientas 
 
