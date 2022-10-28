@@ -61,6 +61,9 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 ## Conclusiones
 * Cuando nos excedemos del tamaño de la lista al aplicar la formula K=hi-lo+1, nos da error, ya que la salida esperada debe estar en el rango de esa lista.
+* Cuando usamos el marco de trabajo pytest para realizar las pruebas el trabajo fue más sencillo, ya que evalúa el número de casos y calcula el tiempo total.
+* Para poder ejecutar el algoritmo debemos tener en cuenta que (lo) debe ser menor a (hi), si esto no se cumple los casos de prueba fallan, caso contrario son aceptados.
+
 
 
  
