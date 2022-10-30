@@ -11,7 +11,7 @@
 * [Autores :memo:](#autores)
 * [Conclusiones :memo:](#Conclusiones)
 
-## Explicaion del ejercicio
+## Explicación del ejercicio
  
 El programa consiste en ordenar enteros por el valor de la potencia.
 La potencia de un entero x se define como el número de pasos necesarios para 
