@@ -24,7 +24,7 @@ transformar x en 1 usando los siguientes pasos:
     *IMPAR: 5*3+1=16
     
  <b>Para ver la explicacion más detallada se recomienda visualizar el documento:</b>
- [Algoritmo ordenar enteros por potencia](https://drive.google.com/file/d/1VXDqfPXXJB3zkoH60x_QFmDeX8_B4Boa/view?usp=sharing)
+ [Algoritmo ordenar enteros por potencia](https://drive.google.com/file/d/1LMXbtuaMDjURlGwjqetSsYObsaRSX9OP/view)
 
 
 
